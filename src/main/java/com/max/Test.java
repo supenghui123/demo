@@ -31,7 +31,7 @@ public class Test {
         System.out.println(new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date(1532054766000L)));
         System.out.println(new Date().getTime());*/
 
-        System.out.println(24*60/8);
+
 
         System.setProperty("webdriver.chrome.driver", "chromedriver2.38.exe"); //加载驱动
         ChromeOptions options = new ChromeOptions();

@@ -7,9 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90ada6f4-578c-47a9-9ebd-871482169860" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/max/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/max/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/max/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/max/Utils.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -48,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Utils.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/max/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
@@ -69,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/max/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+            <state relative-caret-position="375">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -383,12 +381,12 @@
       <workItem from="1532569466974" duration="21425000" />
       <workItem from="1532654946491" duration="5459000" />
       <workItem from="1532681843843" duration="848000" />
-      <workItem from="1532914352596" duration="2547000" />
+      <workItem from="1532914352596" duration="2690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109186000" />
+    <option name="totallyTimeSpent" value="109329000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -401,7 +399,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
@@ -413,8 +410,8 @@
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32995737" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293348" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32824427" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32824427" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3293348" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1977612" />
@@ -727,13 +724,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/max/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max/PlaceOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
@@ -748,6 +738,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="390" column="21" selection-start-line="390" selection-start-column="21" selection-end-line="390" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/max/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
