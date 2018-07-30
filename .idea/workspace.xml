@@ -6,7 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90ada6f4-578c-47a9-9ebd-871482169860" name="Default" comment="" />
+    <list default="true" id="90ada6f4-578c-47a9-9ebd-871482169860" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/max/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/max/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/max/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/max/Utils.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,29 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="45" column="17" selection-start-line="40" selection-start-column="4" selection-end-line="45" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CaptchaResp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/max/CaptchaResp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="KeywordSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/max/KeywordSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5300">
-              <caret line="229" column="18" selection-start-line="229" selection-start-column="18" selection-end-line="229" selection-end-column="18" />
+            <state relative-caret-position="1475">
+              <caret line="76" column="13" selection-start-line="64" selection-start-column="12" selection-end-line="76" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,38 +48,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemeberMonitorInfoThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://D:/AmzWebPortal/src/com/megacloud/amazon/service/RemeberMonitorInfoThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5925">
-              <caret line="259" column="37" selection-start-line="259" selection-start-column="30" selection-end-line="259" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MobileChrome.java" pinned="false" current-in-tab="false">
-        <entry file="file://D:/AutoPurchase/src/com/MobileChrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18375">
-              <caret line="745" column="74" selection-start-line="745" selection-start-column="63" selection-end-line="745" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PCChromeUserAgents.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/max/PCChromeUserAgents.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="875">
-              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Utils.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/max/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10150">
-              <caret line="430" column="38" selection-start-line="430" selection-start-column="38" selection-end-line="430" selection-end-column="38" />
+            <state relative-caret-position="25">
+              <caret line="390" column="21" selection-start-line="390" selection-start-column="21" selection-end-line="390" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlaceOrder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/max/PlaceOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="152" column="92" lean-forward="true" selection-start-line="152" selection-start-column="72" selection-end-line="152" selection-end-column="92" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,20 +72,8 @@
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/max/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="18" column="52" lean-forward="true" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="V1_create.sql" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/db.migration/V1_create.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="26" selection-start-column="16" selection-end-column="26" />
+            <state relative-caret-position="400">
+              <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -127,8 +83,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -147,7 +103,11 @@
       <find>add-to-wishlist-button-submit</find>
       <find>cssSelector</find>
       <find>设</find>
+      <find>inner</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -156,10 +116,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/max/AuthCaptcha.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/max/PCChromeUserAgents.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/max/KeywordSortTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/max/Utils.java" />
         <option value="$PROJECT_DIR$/src/db.migration/V1_create.sql" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/max/KeywordSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/max/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/max/PlaceOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/max/Test.java" />
       </list>
     </option>
@@ -214,6 +175,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,6 +205,14 @@
               <item name="keyword" type="b2602c69:ProjectViewProjectNode" />
               <item name="keyword" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="max" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="keyword" type="b2602c69:ProjectViewProjectNode" />
+              <item name="keyword" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -251,7 +221,6 @@
       </pane>
       <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,6 +228,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AMZAssistant" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -403,44 +373,64 @@
       <workItem from="1531901992534" duration="2264000" />
       <workItem from="1531970296124" duration="6480000" />
       <workItem from="1532052842262" duration="4763000" />
+      <workItem from="1532156364717" duration="940000" />
+      <workItem from="1532316989033" duration="1216000" />
+      <workItem from="1532329954882" duration="1246000" />
+      <workItem from="1532396348331" duration="472000" />
+      <workItem from="1532396861315" duration="2424000" />
+      <workItem from="1532509050685" duration="2274000" />
+      <workItem from="1532515611680" duration="1130000" />
+      <workItem from="1532569466974" duration="21425000" />
+      <workItem from="1532654946491" duration="5459000" />
+      <workItem from="1532681843843" duration="848000" />
+      <workItem from="1532914352596" duration="2547000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69205000" />
+    <option name="totallyTimeSpent" value="109186000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32897604" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32824427" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32995737" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293348" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32824427" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293348" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17803837" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1977612" />
       <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.5131291" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
@@ -448,7 +438,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -458,7 +448,7 @@
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
@@ -467,10 +457,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32897604" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32995737" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,7 +471,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/max/Test.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -489,23 +487,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/max/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/max/KeywordSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="83" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
@@ -538,9 +519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7825">
           <caret line="337" column="45" selection-start-line="337" selection-start-column="25" selection-end-line="337" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -551,27 +529,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/AutoPurchase/src/com/AliexpressPurchase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2025">
-          <caret line="95" column="43" selection-start-line="95" selection-start-column="43" selection-end-line="95" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/AutoPurchase/src/com/WishWeb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14500">
-          <caret line="600" column="57" selection-start-line="600" selection-start-column="16" selection-end-line="600" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/AutoPurchase/src/com/MobileChrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12225">
-          <caret line="499" column="57" selection-start-line="499" selection-start-column="44" selection-end-line="499" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/AutoPurchase/src/com/AliexpressPurchase.java" />
+    <entry file="file://D:/AutoPurchase/src/com/WishWeb.java" />
+    <entry file="file://D:/AutoPurchase/src/com/MobileChrome.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max/KeywordSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3225">
@@ -607,9 +567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9650">
           <caret line="410" column="5" selection-start-line="410" selection-start-column="5" selection-end-line="410" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -620,20 +577,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/AutoPurchase/src/com/AliexpressPurchase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1900">
-          <caret line="90" column="5" selection-start-line="75" selection-start-column="4" selection-end-line="90" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/AutoPurchase/src/com/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6450">
-          <caret line="284" column="9" selection-start-line="242" selection-start-column="8" selection-end-line="284" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/AutoPurchase/src/com/AliexpressPurchase.java" />
+    <entry file="file://D:/AutoPurchase/src/com/Utils.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max/KeywordSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2750">
@@ -658,13 +603,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/AutoPurchase/src/com/AmazonCookie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/AutoPurchase/src/com/AmazonCookie.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max/KeywordSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -689,13 +628,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/AutoPurchase/src/com/AmazonCookie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/AutoPurchase/src/com/AmazonCookie.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max/KeywordSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -710,13 +643,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/AutoPurchase/src/com/AmazonCookie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="24" column="49" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/AutoPurchase/src/com/AmazonCookie.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max/KeywordSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -724,48 +651,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/AutoPurchase/src/com/AmazonCookie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/AutoPurchase/src/com/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6450">
-          <caret line="284" column="9" selection-start-line="242" selection-start-column="8" selection-end-line="284" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/AutoPurchase/src/com/ProxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="30" column="73" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/max/AuthCaptcha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8275">
-          <caret line="350" column="30" selection-start-line="350" selection-start-column="23" selection-end-line="350" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/AutoPurchase/src/com/AliexpressPurchase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2025">
-          <caret line="95" column="43" selection-start-line="95" selection-start-column="43" selection-end-line="95" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/AutoPurchase/src/com/Protonmail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2025">
-          <caret line="117" column="70" selection-start-line="117" selection-start-column="12" selection-end-line="117" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/AutoPurchase/src/com/AmazonCookie.java" />
+    <entry file="file://D:/AutoPurchase/src/com/Utils.java" />
+    <entry file="file://D:/AutoPurchase/src/com/ProxyTest.java" />
+    <entry file="file://D:/AutoPurchase/src/com/AliexpressPurchase.java" />
+    <entry file="file://D:/AutoPurchase/src/com/Protonmail.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.47.1/selenium-api-2.47.1.jar!/org/openqa/selenium/WebDriver.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -794,62 +684,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/max/CaptchaResp.java">
+    <entry file="file://D:/AutoPurchase/src/com/WishWeb.java" />
+    <entry file="file://D:/AutoPurchase/src/com/WishChorme.java" />
+    <entry file="file://D:/AmzWebPortal/src/com/megacloud/amazon/service/RemeberMonitorInfoThread.java" />
+    <entry file="file://D:/AutoPurchase/src/com/MobileChrome.java" />
+    <entry file="file://$PROJECT_DIR$/src/db.migration/V1_create.sql" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.47.1/selenium-support-2.47.1.jar!/org/openqa/selenium/support/ui/Select.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/AutoPurchase/src/com/WishWeb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1025">
-          <caret line="600" column="57" selection-start-line="600" selection-start-column="16" selection-end-line="600" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/AutoPurchase/src/com/WishChorme.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/AmzWebPortal/src/com/megacloud/amazon/service/RemeberMonitorInfoThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5925">
-          <caret line="259" column="37" selection-start-line="259" selection-start-column="30" selection-end-line="259" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/AutoPurchase/src/com/MobileChrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18375">
-          <caret line="745" column="74" selection-start-line="745" selection-start-column="63" selection-end-line="745" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/max/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10150">
-          <caret line="430" column="38" selection-start-line="430" selection-start-column="38" selection-end-line="430" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="250">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
+        <state relative-caret-position="-575">
           <caret line="45" column="17" selection-start-line="40" selection-start-column="4" selection-end-line="45" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/max/CaptchaResp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/max/AuthCaptcha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="789">
+          <caret line="228" column="72" lean-forward="true" selection-start-line="228" selection-start-column="72" selection-end-line="228" selection-end-column="72" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max/KeywordSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5300">
-          <caret line="229" column="18" selection-start-line="229" selection-start-column="18" selection-end-line="229" selection-end-column="18" />
+        <state relative-caret-position="1475">
+          <caret line="76" column="13" selection-start-line="64" selection-start-column="12" selection-end-line="76" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -858,18 +729,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/max/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="18" column="52" lean-forward="true" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+        <state relative-caret-position="400">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/max/PlaceOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="152" column="92" lean-forward="true" selection-start-line="152" selection-start-column="72" selection-end-line="152" selection-end-column="92" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/db.migration/V1_create.sql">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/max/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="16" selection-end-column="26" />
+        <state relative-caret-position="25">
+          <caret line="390" column="21" selection-start-line="390" selection-start-column="21" selection-end-line="390" selection-end-column="21" />
         </state>
       </provider>
     </entry>

@@ -416,6 +416,15 @@ public class Utils {
         }
     }
 
+    public static boolean isNumber(String str){
+        try{
+            Float.parseFloat(str);
+            return true;
+        }catch(Exception e){
+            return false;
+        }
+    }
+
     public static Connection getSqliteCon(){
         Connection con=null;
         try {
